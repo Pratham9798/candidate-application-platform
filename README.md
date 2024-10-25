@@ -1,4 +1,4 @@
-# SDE-1 Assignment
+# React Application
 
 This is a React-based web application that serves as a candidate application platform. It allows users to view job listings, filter jobs based on various criteria, and implements infinite scroll for a seamless browsing experience.
 
